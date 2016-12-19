@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "restaurant": "Specialty's",
+      "groupName": "Quick lunch",
+      "description": "For those who want a quick lunch everyday!",
+      "memberCount": 10,
+      "imageUrl" : "https://pbs.twimg.com/profile_images/2823692288/0a4007d08104076fe530d4c63e0d47f1_400x400.png"
+    },
+    {
+      "restaurant": "Bring your own lunch",
+      "groupName": "The lunch packers",
+      "description": "We bring our own lunch because it's better",
+      "memberCount": 12,
+      "imageUrl": "http://southernstudies.olemiss.edu/media/brownbag.jpg"
+    },
+    {
+      "restaurant": "Five Guys",
+      "groupName": "Walk to Lunch",
+      "description": "As long as we can walk there, we can go there",
+      "memberCount": 5,
+      "imageUrl" : "http://www.fredbeans.com/wp-content/uploads/2011/04/2011-Spring-Walk-@-Work-Day_53-WEB.jpg"
+    },
+    {
+      "restaurant": "Pieology",
+      "groupName": "Pizza lovers",
+      "description": "Only for those who love pizza as much as we do",
+      "memberCount": 7,
+      "imageUrl" : "https://s-media-cache-ak0.pinimg.com/564x/38/f0/ed/38f0edd705209f869e9a0e0dfd5f7f67.jpg"
+    },
+    {
+      "restaurant": "Waterfront",
+      "groupName": "Engineering",
+      "description": "We love going anywhere as long as it's good",
+      "memberCount": 4,
+      "imageUrl" : "http://www.pastificiodeicampi.it/images/blogs/linguina/lunch.jpg"
+    },
+    {
+      "restaurant": "Santa Ramen",
+      "groupName": "Foodies",
+      "description": "For people who LOVE food as much as we do",
+      "memberCount": 16,
+      "imageUrl" : "https://clevelanding.files.wordpress.com/2015/12/keep-calm-and-be-a-foodie-2.png"
+    }
+  ]
+}
